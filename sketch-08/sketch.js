@@ -3,7 +3,7 @@ let spacing =10;
 let size = [];
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 500);
   cols = width/spacing;
   rows = height/spacing;
   for (let i =0; i<cols; i++){
