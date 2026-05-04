@@ -3,7 +3,7 @@ let c1; let c2; let c3;
 let blocks = []; let num = 40;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 500);
   rectMode(CENTER);
   
   c1 = color('#617EF1');
