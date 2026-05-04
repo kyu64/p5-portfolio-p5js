@@ -6,7 +6,7 @@ let scl =0.11;
 
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 500);
   rectMode(CENTER);
   cols = width/spacing;
   rows = height/spacing;
